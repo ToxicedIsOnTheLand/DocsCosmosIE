@@ -18,3 +18,4 @@ CosmosIE started in December 29th of 2022 or near New Years eve.
 
 Current Pages
 --------
+.. toctree::
