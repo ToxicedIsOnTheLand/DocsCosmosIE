@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'CosmosEffects'
-copyright = 'CosmosEffects © 2022 by ToxicedLOL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International'
+project = 'CosmosIE'
+copyright = 'CosmosEffects 2022 by ToxicedLOL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International'
 author = 'ToxicedLOL'
 
-release = '0.1'
-version = '0.1.0'
+release = '8.0.0'
+version = '8.5.0'
 
 # -- General configuration
 
