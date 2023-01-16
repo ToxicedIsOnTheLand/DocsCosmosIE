@@ -11,6 +11,6 @@ Contents
 --------
 
 .. toctree::
-
+.. note:: this is made in rust probably
    
    
