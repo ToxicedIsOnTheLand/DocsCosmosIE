@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CosmosEffects'
+copyright = 'CosmosEffects copyright 2022 by ToxicedLOL is licensed under Attribution-NonCommercial-ShareAlike 4.0 International'
+author = 'ToxicedLOL'
 
 release = '0.1'
 version = '0.1.0'
